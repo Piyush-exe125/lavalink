@@ -26,8 +26,8 @@ plugins:
       deezer: false
       youtube: true
     spotify:
-      clientId: "${e6f84fbec2b44a77bf35a20c5ffa54b8}"
-      clientSecret: "${498f461b962443cfaf9539c610e2ea81}"
+      clientId: "e6f84fbec2b44a77bf35a20c5ffa54b8"
+      clientSecret: "498f461b962443cfaf9539c610e2ea81"
       countryCode: "US"
       playlistLoadLimit: 6
       albumLoadLimit: 6
@@ -40,7 +40,7 @@ lavalink:
       snapshot: false
 
   server:
-    password: "${Codexhost}"
+    password: "Codexhost"
     sources:
       youtube: false        # YouTube Plugin handle karega
       bandcamp: true
